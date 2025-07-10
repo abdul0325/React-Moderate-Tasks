@@ -5,7 +5,7 @@ import GetRadioButtonValue from "./RadioButtonValue"
 import ArrayOfObject from "./ArrayOfObject"
 import ReuseComponentUsingLoop from "./ReuseComponentUsingLoop"
 import ClockDropdown from "./ClockDropdown"
-import Clock from "./Clock"
+import Clock from "./Task2--Clock"
 import { useState } from "react"
 
 function App() {
